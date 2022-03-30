@@ -1,0 +1,24 @@
+{
+  "name": "jstor-downloader",
+  "version": "1.0.0",
+  "description": "Downloads jstor articles as PDF's as a CLI or Node module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Keizouw8/jstor-downloader.git"
+  },
+  "keywords": [
+    "jstor",
+    "download",
+    "pdf"
+  ],
+  "author": "Keizou Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Keizouw8/jstor-downloader/issues"
+  },
+  "homepage": "https://github.com/Keizouw8/jstor-downloader#readme"
+}
